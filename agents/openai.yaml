@@ -1,0 +1,13 @@
+interface:
+  display_name: xiaolin_article
+  short_description: 把真实体验与公开资料写成有判断、有证据的 AI 产品文章
+  default_prompt: 使用 $xiaolin-article，先和我讨论观点，确认大纲及章节逻辑链，再按章节完成一篇有证据和产品判断的 AI 产品文章。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
