@@ -6,7 +6,7 @@
 
 面向 **AI 产品经理** 方向的专业内容写作，覆盖公众号、人人都是产品经理、少数派等平台的新写、重写和改稿。
 
-- 版本：`3.5.0`
+- 版本：`3.7.0`
 - 许可证：[MIT](./LICENSE)
 
 ---
@@ -70,7 +70,8 @@ xiaolin-article-skill/
 │   ├── author-voice.md             # 作者位置与个人风格
 │   ├── ai-product-articles.md      # AI 产品文章写法
 │   ├── reality.md                  # 研究与事实边界
-│   └── revision.md                 # 合稿与审校规则
+│   ├── revision.md                 # 合稿与审校规则
+│   └── technical-explainers.md     # 面向非算法读者的技术长文
 ├── scripts/
 │   └── check_prose.py              # 文章风格检查脚本
 ├── LICENSE
